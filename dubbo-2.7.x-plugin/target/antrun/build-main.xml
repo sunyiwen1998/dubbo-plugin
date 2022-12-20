@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <taskdef resource="net/sf/antcontrib/antcontrib.properties" classpathref="maven.runtime.classpath"/>
+  <if>
+    <equals arg2="jar" arg1="jar"/>
+    <then>
+      <mkdir dir="/home/sunyiwen/Desktop/S2Rtracing/skywalking/apm-sniffer/apm-sdk-plugin/dubbo-2.7.x-plugin/target/../../../../skywalking-agent/plugins"/>
+      <copy file="/home/sunyiwen/Desktop/S2Rtracing/skywalking/apm-sniffer/apm-sdk-plugin/dubbo-2.7.x-plugin/target/apm-dubbo-2.7.x-plugin-8.7.0.jar" tofile="/home/sunyiwen/Desktop/S2Rtracing/skywalking/apm-sniffer/apm-sdk-plugin/dubbo-2.7.x-plugin/target/../../../../skywalking-agent/plugins/apm-dubbo-2.7.x-plugin-8.7.0.jar" overwrite="true"/>
+    </then>
+  </if>
+</target>
+</project>

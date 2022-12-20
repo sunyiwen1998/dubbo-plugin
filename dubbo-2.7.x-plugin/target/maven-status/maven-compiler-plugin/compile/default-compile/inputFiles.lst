@@ -1,0 +1,3 @@
+/home/sunyiwen/Desktop/S2Rtracing/skywalking/apm-sniffer/apm-sdk-plugin/dubbo-2.7.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/asf/dubbo/DubboInstrumentation.java
+/home/sunyiwen/Desktop/S2Rtracing/skywalking/apm-sniffer/apm-sdk-plugin/dubbo-2.7.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/asf/dubbo/DubboPluginConfig.java
+/home/sunyiwen/Desktop/S2Rtracing/skywalking/apm-sniffer/apm-sdk-plugin/dubbo-2.7.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/asf/dubbo/DubboInterceptor.java

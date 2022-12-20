@@ -1,0 +1,19 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+dubbo-2.7.x-plugin
+
+
+From: 'an unknown organization'
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.8.5
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - apm-toolkit-trace (http://maven.apache.org) org.apache.skywalking:apm-toolkit-trace:jar:8.7.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
